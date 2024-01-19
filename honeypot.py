@@ -53,7 +53,7 @@ Content-Type: text/html; charset=utf-8
     <style>
         body {
             font-size: 20px;
-            background-image: url('/buc.jpg');
+            background-image: url('/IMMAGINE-A-CASO.jpg');
             background-size: cover;
             background-position: center;
             color: #ffffff;
